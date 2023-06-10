@@ -1,6 +1,6 @@
 # ShareMe Social Media Application
 
-### [Live Site](https://shareme75.netlify.app/)
+### [Live Site at https://shareme75.netlify.app/login](https://shareme75.netlify.app/)
 
 ![ShareMe](https://i.ibb.co/1TmWGV6/shareme-ss.png)
 
